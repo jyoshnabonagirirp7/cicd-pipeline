@@ -65,7 +65,9 @@ Access Your Application
 kubectl get svc -n default
 Get Minikube IP:minikube ip
 
-Access your app in browser:http://<minikube-ip>:<node-port>
+Access your app in browser:
+
+http://<minikube-ip>:<node-port>
 
 
 
